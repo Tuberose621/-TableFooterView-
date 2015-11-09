@@ -1,9 +1,17 @@
 # -TableFooterView-
 处理的许多细节有价值
 ![](http://upload-images.jianshu.io/upload_images/739863-5d1aaf3c1af7062e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
 ![](http://upload-images.jianshu.io/upload_images/739863-4ed70f69d9ba79fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
 ![](http://upload-images.jianshu.io/upload_images/739863-d9e2e2f3e8d0b931.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 设计实现上面的页面
+- 设计实现上面的页面
 
 **一**
 - 首先第一个这样的一个界面如何设计呢？它又有哪些需要注意的细节呢
